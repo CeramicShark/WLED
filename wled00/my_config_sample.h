@@ -22,4 +22,4 @@
 #define CLIENT_PASS "Your_Password"
 */
 
-//#define MAX_LEDS 1500       //Maximum total LEDs. More than 1500 might create a low memory situation on ESP8266.
+#define MAX_LEDS 1625       //Maximum total LEDs. More than 1500 might create a low memory situation on ESP8266.
